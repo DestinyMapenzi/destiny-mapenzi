@@ -8,14 +8,14 @@ Focused on developing practical data skills through hands-on analysis of real da
 - Google BigQuery (Google Cloud Platform)
 - Foundations of Machine Learning
 
-## Technical Skills (In Progress)
+### Technical Skills (In Progress)
 - SQL
 - Python
 - Google BigQuery (GCP)
 - Power BI (data visualization)
 - Git & GitHub
 
-## Tools & Platforms
+### Tools & Platforms
 - Python 
 - Power BI
 - SQL
