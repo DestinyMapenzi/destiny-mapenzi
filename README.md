@@ -12,10 +12,11 @@ Focused on developing practical data skills through hands-on analysis of real da
 - Git & GitHub
 
 ### Tools & Platforms
--Microsoft Excel
+- Microsoft Excel
 - Python 
 - Power BI
 - SQL
 - Google BigQuery
 - Git & Github
 - Google Colab
+
