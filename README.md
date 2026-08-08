@@ -1,22 +1,21 @@
-# Destiny Mapenzi
-Data professional building expertise in SQL, python, data analytics and problem-solving.
 
-Focused on developing practical data skills through hands-on analysis of real datasets. Interested in transforming raw data into actionable insights using modern data tools.
+# Hi, I'm Destiny Mapenzi 👋
 
+**Data & Business Analyst**
 
-### Technical Skills (In Progress)
-- SQL
-- Python
-- Google BigQuery (GCP)
-- Power BI (data visualization)
-- Git & GitHub
+I enjoy using data and analytical thinking to understand business problems, uncover insights, and create practical solutions that help businesses make better decisions. I work with **SQL, Python, Excel, and Power BI** to turn data into meaningful insights, reports, and business recommendations.
 
-### Tools & Platforms
-- Microsoft Excel
-- Python 
-- Power BI
-- SQL
-- Google BigQuery
-- Git & Github
-- Google Colab
+### Technical Skills
+
+* **Data Analysis:** Microsoft Excel, SQL, Python
+* **Business Analysis:** KPI Analysis, Business Performance Analysis, Data-Driven Recommendations
+* **Data Visualization:** Power BI, Excel Pivot Tables & Charts
+* **Data Preparation:** Data Cleaning, Data Validation, Data Transformation
+* **Databases & Platforms:** MySQL, PostgreSQL, Google BigQuery, Google Colab
+* **Version Control:** Git, GitHub
+
+### Connect with Me
+- **Email:** mapenzidestiny4@gmail.com
+- 📍 Kenya | 🌍 Open to Remote Opportunities
+
 
