@@ -1,6 +1,6 @@
 # Hi, I'm Destiny Mapenzi 👋
 
-**Data & Business Analyst**
+**Data Analyst**
 
 I enjoy using data and analytical thinking to understand business problems, uncover insights, and create practical solutions that help businesses make better decisions. I work with **SQL, Python, Excel, and Power BI** to turn data into meaningful insights, reports, and business recommendations.
 
